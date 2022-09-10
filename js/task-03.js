@@ -30,8 +30,6 @@ const markup = images
 .map(({url, alt}) => `<li class="list-item"><img src = ${url}  alt = ${alt}  width = "500" height = "400" ></li>`)
 .join("");
 
-// // Check the console, you'll see a single string with HTML tags
-// console.log(markup);
 
 // // Adding all the markup in one operation
 list.insertAdjacentHTML("beforeend", markup);

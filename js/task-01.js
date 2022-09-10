@@ -15,26 +15,3 @@ for (const listEl of liItem ) {
 }
     
 
-// const h2 = document.querySelector("h2");
-// console.log(h2.textContent);
-// const ul = document.querySelector(".item > ul")
-// ul.classList.add("list");
-// const luItem = document.querySelectorAll(" .list > li");
-// console.log(luItem);
-// console.log(luItem.innerText);
-// console.log(luItem.textContent);
-// let text = document.getElementsByClassName("list");
-
-// console.log(text);
-// let text3 = document.getElementsByTagName("li").textContent;
-// console.log(text3);
-// const message2 = luItem.innerText;
-// console.log(message2);
-
-
-
-
-// liItem.firstElementChild 
-// document.createElement(tagName);
-
-
